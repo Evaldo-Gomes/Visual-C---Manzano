@@ -1,0 +1,6 @@
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\bin\Debug\Cap5_Ex08.exe.config
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\bin\Debug\Cap5_Ex08.exe
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\bin\Debug\Cap5_Ex08.pdb
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\obj\Debug\Cap5_Ex08.csproj.CoreCompileInputs.cache
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\obj\Debug\Cap5_Ex08.exe
+C:\Users\Evaldo Gomes\source\repos\Cap5_Ex08\Cap5_Ex08\obj\Debug\Cap5_Ex08.pdb

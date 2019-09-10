@@ -1,0 +1,6 @@
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\bin\Debug\Cap4_Ex04.exe.config
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\bin\Debug\Cap4_Ex04.exe
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\bin\Debug\Cap4_Ex04.pdb
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\obj\Debug\Cap4_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\obj\Debug\Cap4_Ex04.exe
+C:\Users\Evaldo Gomes\source\repos\Cap4_Ex04\Cap4_Ex04\obj\Debug\Cap4_Ex04.pdb

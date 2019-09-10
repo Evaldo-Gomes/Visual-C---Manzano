@@ -1,0 +1,7 @@
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\bin\Debug\Cap2_Ex_Fix01.exe.config
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\bin\Debug\Cap2_Ex_Fix01.exe
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\bin\Debug\Cap2_Ex_Fix01.pdb
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\obj\Debug\Cap2_Ex_Fix01.csprojAssemblyReference.cache
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\obj\Debug\Cap2_Ex_Fix01.csproj.CoreCompileInputs.cache
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\obj\Debug\Cap2_Ex_Fix01.exe
+C:\Users\Evaldo Gomes\source\repos\Cap2_Ex_Fix01\Cap2_Ex_Fix01\obj\Debug\Cap2_Ex_Fix01.pdb

@@ -1,0 +1,6 @@
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\bin\Debug\Cap3_Ex10.exe.config
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\bin\Debug\Cap3_Ex10.exe
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\bin\Debug\Cap3_Ex10.pdb
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\obj\Debug\Cap3_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\obj\Debug\Cap3_Ex10.exe
+C:\Users\Evaldo Gomes\source\repos\Cap3_Ex10\Cap3_Ex10\obj\Debug\Cap3_Ex10.pdb

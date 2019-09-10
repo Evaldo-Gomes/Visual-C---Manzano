@@ -1,0 +1,7 @@
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\bin\Debug\Cap6_Ex_Fix04.exe.config
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\bin\Debug\Cap6_Ex_Fix04.exe
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\bin\Debug\Cap6_Ex_Fix04.pdb
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\obj\Debug\Cap6_Ex_Fix04.csprojAssemblyReference.cache
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\obj\Debug\Cap6_Ex_Fix04.csproj.CoreCompileInputs.cache
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\obj\Debug\Cap6_Ex_Fix04.exe
+C:\Users\Evaldo Gomes\source\repos\Cap6_Ex_Fix04\Cap6_Ex_Fix04\obj\Debug\Cap6_Ex_Fix04.pdb
